@@ -378,7 +378,7 @@ play() {
 # MAIN
 
 # setup
-base_api="https://anidb.app"
+base_api="https://allanime.day"
 search_api="${base_api}/browse?q=%s"
 # search_api_alt="${base_api}/search/suggestions?q=%s"
 desc_api="${base_api}/anime/%s"
